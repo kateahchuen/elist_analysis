@@ -13,14 +13,15 @@ Elist's data is spread across four relational tables containing information on o
 <img width="600" alt="Screenshot 2025-05-28 at 5 50 19 PM" src="https://github.com/user-attachments/assets/bd3fb415-f5b6-482b-8986-935b52777319" />
 
 ## Insights
-### Seasonality
+### Overall Trends
+#### Seasonality
 ### Product Performance
 ### Global Reach
+
+### Growth Rates
 ### Loyalty Program
-### Sales
-### Project Trends
-### Loyalty Program
-### Refund Rates
+
+### Refund Rates & Average Order Value
 
 ## Recommendations
 
