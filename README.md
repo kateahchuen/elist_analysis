@@ -1,22 +1,27 @@
-# Elist E-commerce Post-Pandemic Analysis
-Sales trends analysis for e-commerce company Elist during 2019-2022
+# Elist E-Commerce Post-Pandemic Analysis
+Sales trends analysis for e-commerce giant Elist during 2019-2022
 
-# Overview
+## Executive Summary
+Elist is a global e-commerce company specializing in popular electronic products. In this project, I collaborated with Angie, Head of Operations, to support cross-functional teams including Finance, Sales, Product, and Marketing by providing data-driven insights into Elist’s performance during the COVID-19 pandemic.
 
-## ERD
-![Blank diagram](https://github.com/user-attachments/assets/a2347616-db11-4373-86c1-adac346f2977)
+The primary goal of this analysis is to help stakeholders make informed decisions that will enhance operational efficiency and elevate the customer experience in the post-pandemic landscape. Using Elist's dataset, I identified key trends and growth metrics related to revenue, average order value (AOV), product popularity, marketing channel effectiveness, refund rates, and shipping efficiency. Additionally, I conducted a focused analysis of Elist’s recently launched loyalty program, evaluating its impact on overall sales, AOV, and order volume.
 
-# Deep-Dive Insights
-Body text
+This project contributes to Elist’s ongoing strategy to deliver world-class products and experiences to customers worldwide through insight-driven decision-making.
+      
+### ERD
+The data powering this analysis is spread across four relational tables containing information on orders, order statuses, customer profiles, and geographic regions. These datasets together paint a comprehensive picture of Elist’s business performance and customer behavior across global markets.
+<img width="600" alt="Screenshot 2025-05-28 at 5 50 19 PM" src="https://github.com/user-attachments/assets/bd3fb415-f5b6-482b-8986-935b52777319" />
 
-## Sales
-Body text
+## Insights
+### Seasonality
+### Product Performance
+### Global Reach
+### Loyalty Program
+### Sales
+### Project Trends
+### Loyalty Program
+### Refund Rates
 
-## Project Trends
-Body text
+## Recommendations
 
-## Loyalty Program
-Body text
-
-## Refund Rates
-Body text
+## Assumptions and Caveats 
