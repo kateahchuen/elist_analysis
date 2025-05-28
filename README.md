@@ -1,5 +1,4 @@
 # Elist E-Commerce Post-Pandemic Analysis
-Sales trends analysis for e-commerce giant Elist during 2019-2022
 
 ## Executive Summary
 Elist is a global e-commerce company specializing in popular electronic products. In this project, I collaborated with Angie, Head of Operations, to support cross-functional teams including Finance, Sales, Product, and Marketing by providing data-driven insights into Elist’s performance during the COVID-19 pandemic.
