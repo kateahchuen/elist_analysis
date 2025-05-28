@@ -1,5 +1,5 @@
-# elist_analysis
-Sales trends analysis for e-commerce company
+# Elist E-commerce Post-Pandemic Analysis
+Sales trends analysis for e-commerce company Elist during 2019-2022
 
 # Overview
 
